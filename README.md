@@ -27,3 +27,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaon-norhani&show_icons=true&locale=en" alt="ayaon-norhani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaon-norhani&" alt="ayaon-norhani" /></p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ayaon-Norhani&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ayaon-Norhani&icon=0&color=11)](https://visitcount.itsvg.in)
+
