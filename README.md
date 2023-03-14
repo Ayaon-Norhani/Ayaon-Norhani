@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer and web developer from somewhere on earth. Hehe</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ayaon-Norhani&icon=0&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ayaon-Norhani&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
