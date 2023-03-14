@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaon-norhani&label=Profile%20views&color=0e75b6&style=flat" alt="ayaon-norhani" /> </p>
 
-- 🔭 I’m currently working on **Konek-To-Book**
+- 🔭 Currently working as **Software Engineer** at **Newstars Inc.**
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Go Language**
 
 - 💬 Ask me about **Web development, Frontend development**
 
