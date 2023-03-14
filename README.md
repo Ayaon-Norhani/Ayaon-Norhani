@@ -2,10 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Norhani Ayaon</h1>
 <h3 align="center">A passionate frontend developer and web developer from somewhere on earth. Hehe</h3>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+---
+[![](https://visitcount.itsvg.in/api?id=Ayaon-Norhani&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaon-norhani&label=Profile%20views&color=0e75b6&style=flat" alt="ayaon-norhani" /> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 - 🔭 Currently working as **Software Engineer** at **Newstars Inc.**
 
@@ -34,6 +35,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=Ayaon-Norhani&icon=0&color=11)](https://visitcount.itsvg.in)
 
