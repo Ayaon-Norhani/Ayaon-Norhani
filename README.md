@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Norhani Ayaon</h1>
 <h3 align="center">A passionate frontend developer and backend developer from somewhere on earth</h3>
 
-[![](https://visitcount.itsvg.in/api?id=Ayaon-Norhani&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ayaon-Norhani&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
