@@ -1,10 +1,9 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://ayaon-norhani.io)
 
 <h1 align="center">Hi 👋, I'm Norhani Ayaon</h1>
-<h3 align="center">A passionate frontend developer and web developer from somewhere on earth. Hehe</h3>
+<h3 align="center">A passionate frontend developer and backend developer from somewhere on earth</h3>
 
----
-[![](https://visitcount.itsvg.in/api?id=Ayaon-Norhani&icon=0&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ayaon-Norhani&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
