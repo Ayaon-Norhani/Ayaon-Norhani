@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://ayaon-norhani.io)
 
 <h1 align="center">Hi, I'm Cindy!👋</h1>
-<h3 align="center">Car Enthusiast (U+1F697)</h3>
+<h3 align="center">Car Enthusiast U+1F697</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaon-norhani&label=Profile%20views&color=0e75b6&style=flat" alt="ayaon-norhani" /> </p>
 
