@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaon-norhani&label=Profile%20views&color=0e75b6&style=flat" alt="ayaon-norhani" /> </p>
 
-- 🔭 Currently working as **Software Engineer at Newstars Inc.**
+- 🔭 Currently working as **Software Engineer**
 
 - 🌱 I’m currently learning **Go Language**
 
