@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web development and Backend development**
 
--  ⚡ Fun fact **I am cute. LOL**
+-  ⚡ Cool fact **She's a car racer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
