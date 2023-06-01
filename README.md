@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaon-norhani&label=Profile%20views&color=0e75b6&style=flat" alt="ayaon-norhani" /> </p>
 
-- 🔭 Currently working as **Software Engineer**
+- 🔭 Currently working as **: Software Engineer**
 
-- 🌱 I’m currently learning **Go Language**
+- 🌱 I’m currently learning **: Go Language**
 
-- 💬 Ask me about **Web development and Backend development**
+- 💬 Ask me about **: Web development and Backend development**
 
 -  ⚡ Cool fact **: She's a car racer**
 
