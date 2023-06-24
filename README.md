@@ -1,8 +1,7 @@
-[![MasterHead]([https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://cdn.dribbble.com/users/2017910/screenshots/5102683/ai_trends_dribbble_shot.gif)
+
 
 <h1 align="center">Hi, I'm CINDY!</h1>
 <h3 align="center"><em>Software Engineer 👩‍💻|⚖️</em></h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif)">
 
 - 🔭 Currently working as **: Software Engineer**
 
