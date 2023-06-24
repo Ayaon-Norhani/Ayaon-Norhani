@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi, I'm CINDY!</h1>
 <h3 align="center"><em>Software Engineer 👩‍💻|⚖️</em></h3>
+<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
+<br><br>
 
 - 🔭 Currently working as **: Software Engineer**
 
