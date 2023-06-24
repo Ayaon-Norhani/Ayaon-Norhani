@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://cdn.rentechdigital.com/common_files/blogs/advantages-of-using-ai-in-mobile-app-development-swipecart-blog-img-03-12-07-2022.gif))](https://ayaon-norhani.io)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
 
 <h1 align="center">Hi, I'm CINDY!</h1>
 <h3 align="center"><em>Software Engineer 👩‍💻|⚖️</em></h3>
