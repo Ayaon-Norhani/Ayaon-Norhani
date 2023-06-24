@@ -1,14 +1,15 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
 <br><br>
 
-<h1 align="center">Hi, I'm CINDY!</h1>
+<h1 align="center">Hi, I'm Cindy!</h1>
 <h3 align="center"><em>Software Engineer 👩‍💻|⚖️</em></h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
 <br><br>
+- 🎓 Graduated **: BS Information Technology (Major in Database)**
 
 - 🔭 Currently working as **: Software Engineer**
 
-- 🌱 I’m currently learning **: Go language**
+- 🌱 I’m currently learning **: Go Language**
 
 - 💬 Ask me about **: Web development and Backend development**
 
@@ -27,11 +28,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ayaon-norhani&&theme=xcode)](https://github.com/ayaon-norhani)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaon-norhani&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ayaon-norhani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaon-norhani&show_icons=true&locale=en&theme=tokyonight" alt="ayaon-norhani" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaon-norhani&&theme=tokyonight" alt="ayaon-norhani" /></p>
 
