@@ -7,7 +7,7 @@
 
 - 🔭 Currently working as **: Software Engineer**
 
-- 🌱 I’m currently learning **: Go Language**
+- 🌱 I’m currently learning **: GO LANGUAGE**
 
 - 💬 Ask me about **: Web development and Backend development**
 
