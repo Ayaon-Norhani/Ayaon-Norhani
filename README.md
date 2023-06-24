@@ -4,8 +4,6 @@
 <h3 align="center"><em>Software Engineer 👩‍💻|⚖️</em></h3>
 <img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif)">
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif" height="270" >
-
 - 🔭 Currently working as **: Software Engineer**
 
 - 🌱 I’m currently learning **: Go language**
