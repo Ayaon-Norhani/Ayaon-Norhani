@@ -29,7 +29,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ayaon-norhani&&theme=xcode)](https://github.com/ayaon-norhani)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ayaon-norhani&theme=xcode)](https://github.com/ayaon-norhani)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaon-norhani&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ayaon-norhani" /></p>
 
