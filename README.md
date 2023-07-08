@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **: Web development and Backend development**
 
--  ⚡ Cool fact **: She's a car racer**
+-  ⚡ Cool fact **: A non-typical girl aspired to compete in International Formula 1 racing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
