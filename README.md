@@ -1,7 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
 <br><br>
 
-<div class="tenor-gif-embed" data-postid="15965581" data-share-method="host" data-aspect-ratio="2.35294" data-width="100%"><a href="https://tenor.com/view/supra-drift-cool-race-car-car-gif-15965581">Supra Drift GIF</a>from <a href="https://tenor.com/search/supra-gifs">Supra GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="tenor-gif-embed" data-postid="15965581" data-share-method="host" data-aspect-ratio="2.35294" data-width="100%"><a href="https://tenor.com/view/supra-drift-cool-race-car-car-gif-15965581">Supra Drift GIF</a>from <a href="https://tenor.com/search/supra-gifs">Supra GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h1 align="center">Hi, I'm Cindy!</h1>
 <h3 align="center"><em>Passionate Software Engineer 👩‍💻|⚖️</em></h3>
