@@ -28,11 +28,17 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-[![Cindy's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ayaon-norhani&&theme=xcode)](https://github.com/ayaon-norhani).
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ayaon-Norhani)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaon-norhani&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ayaon-norhani" /></p>
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaon-norhani&show_icons=true&locale=en&theme=tokyonight" alt="ayaon-norhani" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayaon-Norhani)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaon-norhani&&theme=tokyonight" alt="ayaon-norhani" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayaon-Norhani&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ayaon-Norhani)  
+
+![GitHub metrics](https://metrics.lecoq.io/Ayaon-Norhani)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Ayaon-Norhani)  
 
