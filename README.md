@@ -1,6 +1,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
 <br><br>
-<h1 align="center">Hi, I'm Cindy!</h1>
+<h1 align="center">Hi, I'm Cindy</h1>
 <h3 align="center"><em>Passionate Software Engineer 👩‍💻|⚖️</em></h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
 <br><br>
