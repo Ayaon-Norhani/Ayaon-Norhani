@@ -36,4 +36,4 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Ayaon-Norhani)  
 
-![snake gif](https://github.com/Ayaon-Norhani/Ayaon-Norhani/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Ayaon-Norhani/Ayaon-Norhani/blob/output/github-contribution-grid-snake.svg)
