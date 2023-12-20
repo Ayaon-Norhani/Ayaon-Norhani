@@ -1,7 +1,8 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://i.pinimg.com/originals/b2/d5/d1/b2d5d1a465aecdab338e8f8857f9db38.gif" width="430" style="margin-right: 20px;">
-    <img src="https://i.pinimg.com/originals/a0/7b/9b/a07b9bfc3e0946f8819e66e724327334.gif" width="430" style="margin-left: 20px;">
+<img src="HEADER_IMAGE_URL" width="900" style="display: block;">
+
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
+    <img src="https://i.pinimg.com/originals/b2/d5/d1/b2d5d1a465aecdab338e8f8857f9db38.gif" width="430" style="margin-right: 10px;">
+    <img src="https://i.pinimg.com/originals/a0/7b/9b/a07b9bfc3e0946f8819e66e724327334.gif" width="430" style="margin-left: 10px;">
 </div>
 <br><br>
 <h1 align="center">Hi, I'm Cindy!</h1>
