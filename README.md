@@ -1,5 +1,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
-<img src="https://i.pinimg.com/originals/b2/d5/d1/b2d5d1a465aecdab338e8f8857f9db38.gif" width="450">
+<img src="https://i.pinimg.com/originals/b2/d5/d1/b2d5d1a465aecdab338e8f8857f9db38.gif" width="430">
+<img src="https://i.pinimg.com/originals/a0/7b/9b/a07b9bfc3e0946f8819e66e724327334.gif" width="430">
 <br><br>
 <h1 align="center">Hi, I'm Cindy!</h1>
 <h3 align="center"><em>Passionate Software Engineer 👩‍💻|⚖️</em></h3>
