@@ -1,6 +1,6 @@
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://i.pinimg.com/originals/b2/d5/d1/b2d5d1a465aecdab338e8f8857f9db38.gif" width="430" style="margin-right: 20px;">
-    <img src="https://i.pinimg.com/originals/a0/7b/9b/a07b9bfc3e0946f8819e66e724327334.gif" width="430" style="margin-left: 20px;">
+<div style="display: flex; justify-content: center;">
+    <img src="https://i.pinimg.com/originals/b2/d5/d1/b2d5d1a465aecdab338e8f8857f9db38.gif" width="430" style="margin-right: 10px;">
+    <img src="https://i.pinimg.com/originals/a0/7b/9b/a07b9bfc3e0946f8819e66e724327334.gif" width="430" style="margin-left: 10px;">
 </div>
 <br><br>
 <h1 align="center">Hi, I'm Cindy!</h1>
