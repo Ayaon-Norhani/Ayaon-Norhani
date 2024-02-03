@@ -4,7 +4,7 @@
     <img src="https://i.pinimg.com/originals/b2/d5/d1/b2d5d1a465aecdab338e8f8857f9db38.gif" width=447 height=200">
 </div>
 <br><br>
-<h1 align="center">Hi, I'm Cindy!</h1>
+<h1 align="center">Hi, I'm Cindy!!</h1>
 <h3 align="center"><em>Passionate Software Engineer 👩‍💻|⚖️</em></h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
 <br><br>
