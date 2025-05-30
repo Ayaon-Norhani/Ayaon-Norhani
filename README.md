@@ -38,12 +38,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayaon-Norhani&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ayaon-Norhani)  
-
-![GitHub metrics](https://metrics.lecoq.io/Ayaon-Norhani)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayaon-Norhani&show_icons=true)    
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Ayaon-Norhani)  
 
-![snake gif](https://github.com/Ayaon-Norhani/Ayaon-Norhani/blob/output/github-contribution-grid-snake.svg)
+
